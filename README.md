@@ -12,8 +12,8 @@ August 2020
 Bangkok
 
 # :technologist: Skill
-C
-Python
+- C	
+- Python
 
 <!---
 tanisreal7145/tanisreal7145 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
