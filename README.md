@@ -19,10 +19,12 @@ Bangkok
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanisreal7145&layout=compact&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanisreal7145&show_icons=true&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tanisreal7145&theme=radical&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanisreal7145&show_icons=true&theme=radical&no-frame=true)
 
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=tanisreal7145&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
   
 <!---
 tanisreal7145/tanisreal7145 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
