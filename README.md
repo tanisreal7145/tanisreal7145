@@ -1,7 +1,8 @@
 # :sunglasses: Yossarun Yoskuntoo / TAN IS REAL Profile
 - 👋 Hi, I’m @tanisreal7145 My name is Yossarun Yoskuntoo
 - 👀 I’m interested in Coding/Game/Anime/NTF/Manga
-- 🌱 I have youtube channal : TAN IS REAL about Game
+- 🌱 I have youtube channal : TAN IS REAL about Game<a href="https://www.youtube.com/channel/UCXG0fYql8UT-hzjTRGADBwg
+" target="_blank"> " CLICK "
 - 💞️ IG : tan_is_real
 - 📫 Contact : tan.yossarun@gmail.com
 
