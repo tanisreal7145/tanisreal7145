@@ -13,7 +13,12 @@ August 2020
 Bangkok
 
 # :technologist: Skill
-- C	
+- C
+- C#
+- C++
+- UX/UI
+- Tester Manual
+- Project management
 - Python
 - HTML
 - Java
